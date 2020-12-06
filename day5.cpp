@@ -4,7 +4,6 @@
 #include <string>
 #include <vector>
 
-
 int main() {
    std::string seat{};
    std::vector<int> ID{};
